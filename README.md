@@ -5,7 +5,9 @@ para classificar o peso do usuário em: abaixo do peso, peso normal, sobrepeso e
 
 ## Como funciona
 Devemos aplicar uma fórmula para calcular o IMC
+
 <img src="https://github.com/EddieMC-Dev/Calculadora-de-IMC/blob/main/images/IMC.PNG">
+
 <img src="https://github.com/EddieMC-Dev/Calculadora-de-IMC/blob/main/images/calculadora.PNG">
 <img src="https://github.com/EddieMC-Dev/Calculadora-de-IMC/blob/main/images/calculando_imc.PNG">
 
