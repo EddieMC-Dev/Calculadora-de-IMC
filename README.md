@@ -12,7 +12,10 @@ para classificar o peso do usuário em: abaixo do peso, peso normal, sobrepeso e
 
 <h4>Como o programa já se baseia naquela fórmula, basta inserir os dados e descobrir como está o seu peso.</h4>
 <div> 
+  <img src="https://github.com/EddieMC-Dev/Calculadora-de-IMC/blob/main/images/abaixo_do_peso.PNG">
   <img src="https://github.com/EddieMC-Dev/Calculadora-de-IMC/blob/main/images/calculando_imc.PNG">
+  <img src="https://github.com/EddieMC-Dev/Calculadora-de-IMC/blob/main/images/sobrepeso.PNG">
+  <img src="https://github.com/EddieMC-Dev/Calculadora-de-IMC/blob/main/images/obesidade.PNG">
 </div>
 
 ## Detalhe
