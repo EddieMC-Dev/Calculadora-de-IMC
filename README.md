@@ -24,5 +24,5 @@ ou seja, sempre retornar um valor positivo, então alterei somente o peso para q
 <img src="https://github.com/EddieMC-Dev/Calculadora-de-IMC/blob/main/images/errando_peso.PNG">
 
 ## Ferramentas usadas
-- <h4>Tkinter: https://docs.python.org/3/library/tk.html</h4>
-- <h4>Vídeo: https://www.youtube.com/watch?v=CrZkNmpPWVo</h4>
+- Tkinter: https://docs.python.org/3/library/tk.html
+- Vídeo: https://www.youtube.com/watch?v=CrZkNmpPWVo
